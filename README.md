@@ -110,7 +110,7 @@ Cada licencia es para una PC. Si necesitás varias, contactanos.
 ## 📞 Contacto
 
 ¿Problemas? ¿Consultas?  
-Escribí a: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+Escribí a: [anticev@gmail.com](mailto:anticev@gmail.com)
 
 ---
 
