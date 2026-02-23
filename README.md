@@ -78,14 +78,14 @@ Disponible solo en estos sitios verificados:
 | :--- | :--- |
 | **GitHub** | [Preview Unlocker](https://github.com/anticve-gif/PreviewUnlocker) |
 | **MajorGeeks** | (próximamente) |
-| **FileHippo** | (próximamente) |
+| **CNET** | (próximamente) |
 
 ---
 
 ## ❓ Preguntas frecuentes
 
 **¿Es seguro?**  
-Sí. Publicado en GitHub, MajorGeeks y FileHippo. Verificado en VirusTotal.
+Sí. Publicado en GitHub y MajorGeeks. Verificado en VirusTotal.
 
 **¿Funciona en Windows 10?**  
 Sí, también funciona.
