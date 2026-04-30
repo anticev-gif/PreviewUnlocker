@@ -1,13 +1,13 @@
-# 🔓 Preview Unlocker
+# 🔓 ¿Windows no te muestra la vista previa de tus PDF?
 
-**Restaura el panel de vista previa en Windows 11**  
+**Preview Unlocker** soluciona eso en 1 clic. 
+Restaura el panel de vista previa en Windows 11/10.
 Funciona en **Descargas** y **carpetas de red** (NAS, servidores locales).
-
 ---
 
 ## ⚡ ¿Qué hace?
 
-Elimina el bloqueo de seguridad que Microsoft introdujo en Windows 11 y que impide ver archivos PDF, Word, Excel, etc., en el panel de vista previa del Explorador de archivos.
+Permite Previsualizar multiples archivos PDFElimina el bloqueo de seguridad que Microsoft introdujo en Windows 11 y que impide ver archivos PDF, Word, Excel, etc., en el panel de vista previa del Explorador de archivos.
 
 ✅ Funciona en **archivos descargados de Internet**  
 ✅ Funciona en **carpetas de red** (`\\192.168.x.x`)  
