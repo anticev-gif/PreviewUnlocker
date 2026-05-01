@@ -32,7 +32,7 @@ Permite Previsualizar multiples archivos PDFElimina el bloqueo de seguridad que 
 
 | Plan | Precio |
 | :--- | :--- |
-| **Al Mes - Month** | $1 USD |
+| **Por Mes** | $1 USD |
 | **Anual** | $3 USD (ahorrá 75%) |
 
 [💳 Comprar licencia](link-de-gumroad)
