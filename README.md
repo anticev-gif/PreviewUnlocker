@@ -23,7 +23,7 @@ Permite Previsualizar multiples archivos PDFElimina el bloqueo de seguridad que 
 - Probá que funciona **sin pagar**
 - Sin registro, sin datos personales
 
-[⬇️ Descargar DEMO](link-del-release-cuando-lo-publiques)
+[⬇️ Descargar DEMO](https://github.com/anticev-gif/PreviewUnlocker/releases/download/v1.0.0/PreviewUnlockerVer10_DEMO.exe)
 
 ### 🔹 Versión COMPLETA
 - Desbloqueo **ilimitado**
@@ -35,7 +35,7 @@ Permite Previsualizar multiples archivos PDFElimina el bloqueo de seguridad que 
 | **Por Mes** | $1 USD |
 | **Anual** | $3 USD (ahorrá 75%) |
 
-[💳 Comprar licencia](link-de-gumroad)
+[💳 Comprar licencia](https://github.com/anticev-gif/PreviewUnlocker/releases/download/v1.0.0/PreviewUnlockerVer10.exe)
 
 ---
 
