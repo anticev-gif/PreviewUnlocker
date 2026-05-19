@@ -20,13 +20,13 @@ Elimina el bloqueo de seguridad que Microsoft introdujo en Windows 11 y que impi
 
 ### 🔹 Versión DEMO (GRATIS)
 - Desbloquea **2 archivos** para que pruebes que funciona antes de pagar.
-- Sin registro, sin datos personales, instalación limpia.
+- Es el mismo instalador oficial; corre automáticamente en modo de prueba.
 
-[⬇️ Descargar DEMO](https://github.com/anticev-gif/PreviewUnlocker/releases/download/v1.0.0/PreviewUnlockerVer10_DEMO.exe)
+[⬇️ Descargar DEMO](https://github.com/anticev-gif/PreviewUnlocker/releases/download/v1.0.0/PreviewUnlocker_Installer_v1.0.0.exe)
 
 ### 🔹 Versión COMPLETA
 - Desbloqueo **ilimitado y permanente**.
-- Funciona en **todas las carpetas** locales y mapeadas.
+- Requiere ingresar la clave de activación después de la instalación.
 
 | Plan | Precio | Soporte |
 | :--- | :--- | :--- |
