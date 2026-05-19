@@ -78,7 +78,7 @@ Disponible únicamente a través de canales verificados:
 
 **¿Es seguro el programa?** Sí, totalmente. El código es transparente, está alojado en GitHub y podés verificar el hash del archivo contra VirusTotal en cualquier momento.
 
-**¿El pago de $3 USD es una suscripción mensual?** No. Es un pago único que te da acceso ilimitado a la herramienta y soporte para actualizaciones durante un año entero.
+**¿El pago de $9.99 USD es una suscripción mensual?** No. Es un pago único que te da acceso ilimitado a la herramienta y soporte para actualizaciones durante un año entero.
 
 **¿Funciona en redes corporativas o entornos NAS?** Sí, está diseñado específicamente para resolver el fallo de Windows en entornos de red compartidos (`\\servidor\carpetas`).
 
