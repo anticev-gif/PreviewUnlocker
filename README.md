@@ -24,7 +24,7 @@ Elimina el bloqueo de seguridad que Microsoft introdujo en Windows 11 y que impi
 
 | Plan | Precio | Soporte |
 | :--- | :--- | :--- |
-| **Licencia Completa (Pago Único)** | $3 USD | Actualizaciones por 1 año |
+| **Licencia Completa (Pago Único)** | $9.99 USD | Actualizaciones por 1 año |
 
 [💳 Comprar licencia](https://github.com/anticev-gif/PreviewUnlocker/releases/download/v1.0.0/PreviewUnlocker_Installer_v1.0.0.exe)
 
