@@ -16,7 +16,7 @@ Elimina el bloqueo de seguridad que Microsoft introdujo en Windows 11 y que impi
 
 ---
 
-## 📥 Descarga
+## 📥 Descarga - Download
 
 ### 🔹 Versión COMPLETA
 - Desbloqueo **ilimitado y permanente**.
