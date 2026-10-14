@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Preview Unlocker</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Segoe UI, Arial, sans-serif;
+      color: #10233f;
+      background: linear-gradient(180deg, #d7ebf8 0%, #f4f8fb 40%, #f7f7f7 100%);
+    }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 28px 16px 48px; }
+    h1 { margin: 0 0 6px; font-size: 32px; text-align: center; }
+    .lead { margin: 0 0 18px; text-align: center; color: #345; }
+    video {
+      width: 100%;
+      border-radius: 12px;
+      background: #0b2448;
+      display: block;
+    }
+    .pagos { display: grid; gap: 12px; margin-top: 18px; }
+    a.btn {
+      display: block;
+      text-decoration: none;
+      color: #fff;
+      border-radius: 10px;
+      padding: 16px 18px;
+    }
+    a.btn b { display: block; font-size: 22px; }
+    a.btn span { display: block; margin-top: 4px; font-size: 15px; opacity: 0.95; }
+    .mp { background: #009ee3; }
+    .mp:hover { background: #0088c6; }
+    .usd { background: #10233f; }
+    .usd:hover { background: #1b355c; }
+    .nota { text-align: center; color: #345; margin: 16px 0 0; font-size: 15px; }
+    .nota a { color: #0563c1; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Se ve el PDF en el Explorador</h1>
+    <p class="lead">1 año. 3 pasos. La vista previa queda habilitada.</p>
+    <video controls playsinline preload="metadata" src="preview_unlocker_30s.mp4"></video>
+    <div class="pagos">
+      <a class="btn mp" href="https://mpago.la/1biDm2Q">
+        <b>Pagar en pesos · $16.500</b>
+        <span>Mercado Pago, billeteras, débito o crédito</span>
+      </a>
+      <a class="btn usd" href="https://gumroad.com/l/xvblyq">
+        <b>Pagar en dólares · USD 9,99</b>
+        <span>USD 8,99 si tenés código de un canal</span>
+      </a>
+    </div>
+    <p class="nota">
+      La clave llega al mail. La pegás en el programa.<br>
+      <a href="https://www.virustotal.com/gui/file/087f495f547c452f38f477f42de8b8c8d605e902b4b0ba63dfda4f5205da3b06/detection" target="_blank" rel="noopener">Reporte VirusTotal</a>
+    </p>
+  </div>
+</body>
+</html>
